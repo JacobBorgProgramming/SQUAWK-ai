@@ -42,7 +42,7 @@
     "uniqCompNum": 20,
     "versionPublish": "4.12.1",
     "screenshot": "screenshot.png",
-    "google-analytics": "<!-- Pixel Code for https://tracking.venturify.at/ -->\n<script async src=\"https://tracking.venturify.at/pixel/PDHMXK3d5EkxW1s0\"></script>\n<!-- END Pixel Code -->",
+    "google-analytics": "<!-- Pixel Code for https://tracking.venturify.at/ -->\n<script async src=\"https://tracking.venturify.at/pixel/PDHMXK3d5EkxW1s0\"></script>\n<!-- END Pixel Code -->\n<script src=\"https://host.relaychat.app\"></script>\n",
     "gdpr": {
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
